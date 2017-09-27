@@ -1,2 +1,0 @@
-This is the original text that I will not change.
-This line was added later.
